@@ -1,7 +1,5 @@
 # Milwaukee Bucks Hackathon 2025
 
-### PROMPT ONE
-
 The Milwaukee Bucks are considering the introduction of four themed partial ticket plans for the upcoming season:
 
 1. **Value Plan**: Focused on affordable tickets for weekday games.  
